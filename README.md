@@ -1,2 +1,2 @@
-# ToDoList---SAPBuildApps
-To do list app using SAP Build Apps
+# SAPBuildApps
+Apps created using SAP Build Apps
