@@ -1,6 +1,10 @@
 # Translator
 Translate between languages.
 
+API details:
+* Main endpoint: https://ftapi.pythonanywhere.com/
+* Github: https://github.com/cuberkam/free_translate_api
+
 V1.0.0:
 * Translate between source and destination language.
 * Get audio pronunciation for both source and destination texts.
